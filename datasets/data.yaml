@@ -1,0 +1,12 @@
+path: /data4/zheli/yolov10-main/datasets
+train: /data4/zheli/yolov10-main/datasets/train  # train images (relative to 'path') 128 images
+val: /data4/zheli/yolov10-main/datasets/val # val images (relative to 'path') 128 images
+
+
+# Classes
+names:
+  0: 0
+  1: 1
+  2: 2
+  3: 0
+  4: 1
